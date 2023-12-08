@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ozinsheDemo
+
+  Created by Olzhas Akhmetov on 04.04.2022.
+  
+*/
+"MY_PROFILE" = "Менің профилім";
+"LANGUAGE" = "Тіл";
+"CONNECTION_ERROR" = "Қосылым қатесі";
